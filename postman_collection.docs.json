@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "964b5c5d-b26c-4cc5-8ebd-a08d34281600",
+		"name": "username_checker",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21522143"
+	},
+	"item": [
+		{
+			"name": "github",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9000/api/check/github/izzxx",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"api",
+						"check",
+						"github",
+						"izzxx"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "facebook",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9000/api/check/facebook/username",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"api",
+						"check",
+						"facebook",
+						"username"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "instagram",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9000/api/check/instagram/username",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"api",
+						"check",
+						"instagram",
+						"username"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
