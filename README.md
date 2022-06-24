@@ -6,7 +6,7 @@ Source list:
 - Facebook
 - Github
 
-Check detail <a href="https://github.com/izzxx/username_checker/blob/ce70daa6bf3411f59912b9a0a81993810b6e79d8/components/schema/source.go#L9">source.go</a> to see avaible sources
+Check detail <a href="https://github.com/izzxx/username_checker/blob/ce70daa6bf3411f59912b9a0a81993810b6e79d8/components/schema/source.go#L9">source.go</a> to see available sources
 
 ## Check
 
