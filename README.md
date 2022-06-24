@@ -62,7 +62,7 @@ $ cd username_checker/
 
 # make .env file, add this
 # example:
-PORT = ":9000"
+PORT = "9000"
 
 # run code
 $ go run main.go
